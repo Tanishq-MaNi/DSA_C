@@ -71,7 +71,8 @@ int main()
 
     traversal(head);
 
-    head=deletion(head,);
+    head=deletion(head,30);
+    // traversal(head);
 
     return 0;
 }
